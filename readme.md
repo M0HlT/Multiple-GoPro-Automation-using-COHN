@@ -15,15 +15,15 @@ This Python script allows you to control multiple GoPro cameras over a network. 
 1. Clone the repository official OpenGoPro repository
 2. Install the required Python modules using `pip install -r requirements.txt`.
 3. Place the `cohn_info.json` file in your specific path
-4. Clone this repositort
-5. Run the python script
+4. Clone this repository
+5. Run the `cohn_controlled.py` python script
 
 ### Usage
 
 Run the script using Python:
 
 ```bash
-python gopro_control.py
+python cohn_controlled.py
 ```
 
 ### Script Functionality
