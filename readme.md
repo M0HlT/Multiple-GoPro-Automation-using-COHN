@@ -6,6 +6,7 @@ This Python script allows you to control multiple GoPro cameras over a network. 
 
 ### Prerequisites
 
+- provision all the gopros to your router before running the code
 - the cohn code from opengopro github
 - Python 3.x
 - Required Python modules: `networkscan`, `requests`, `concurrent.futures`, `json`, `os`, `datetime`
