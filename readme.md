@@ -1,4 +1,4 @@
-This respository is created by Mohit and Joel, to connect multiple gopros ( we have tried with gopro 12) in a network and controll them remotely using COHN
+This respository is created by Mohit and Joel, to connect multiple gopros ( we have tried with gopro 12 Hero) in a network and controll them remotely using COHN
 
 ## GoPro Camera Control Script
 
